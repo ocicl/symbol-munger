@@ -1,0 +1,10 @@
+* symbol-munger
+
+A common lisp library to help convert english and lisp-symbols into
+each other and various formats.
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/symbol-munger.git |
+| commit  | e96558e                                                  |
+| systems | symbol-munger                                            |
+|---------+----------------------------------------------------------|
